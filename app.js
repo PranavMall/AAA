@@ -3,26 +3,26 @@
 
 var library = {
     dnata: [
-      'img/Moments/1.jpg',
-      'img/Moments/2.jpg',
-      'img/Moments/3.jpg',
-      'img/Moments/4.jpg',
-      'img/Moments/5.jpg',
-      'img/Moments/6.jpg',
-      'img/Moments/7.jpg',
-      'img/Moments/8.jpg',
-      'img/Moments/9.jpg',
-      'img/Moments/10.jpg',
-      'img/Moments/1.jpg',
-      'img/Moments/2.jpg',
-      'img/Moments/3.jpg',
-      'img/Moments/4.jpg',
-      'img/Moments/5.jpg',
-      'img/Moments/6.jpg',
-      'img/Moments/7.jpg',
-      'img/Moments/8.jpg',
-      'img/Moments/9.jpg',
-      'img/Moments/10.jpg'
+      'Moments/1.jpg',
+      'Moments/2.jpg',
+      'Moments/3.jpg',
+      'Moments/4.jpg',
+      'Moments/5.jpg',
+      'Moments/6.jpg',
+      'Moments/7.jpg',
+      'Moments/8.jpg',
+      'Moments/9.jpg',
+      'Moments/10.jpg',
+      'Moments/1.jpg',
+      'Moments/2.jpg',
+      'Moments/3.jpg',
+      'Moments/4.jpg',
+      'Moments/5.jpg',
+      'Moments/6.jpg',
+      'Moments/7.jpg',
+      'Moments/8.jpg',
+      'Moments/9.jpg',
+      'Moments/10.jpg'
     ]
   }
   
