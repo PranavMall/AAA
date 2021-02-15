@@ -57,7 +57,7 @@ var library = {
     // insert theme in images array
     switch (theme) {
       case "dnata":
-        for (let i=0; i<20; i++) {images.push(library.datenight[i]);}
+        for (let i=0; i<20; i++) {images.push(library.dnata[i]);}
         document.getElementById("demo").innerHTML = "Fun fact: We all will miss the chocolates that you treated us";
         break;
     }
